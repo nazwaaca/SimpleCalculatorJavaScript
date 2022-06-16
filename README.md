@@ -4,4 +4,4 @@ Operator
 2. Pengurangan
 3. Perkalian
 4. Pembagian
-5. Persen
+5. Persentase
